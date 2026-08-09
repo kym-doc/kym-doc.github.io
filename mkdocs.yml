@@ -130,7 +130,7 @@ nav:
     - 操作系统:
       - cs/operating_system/about.md
     - 网络攻防实战:
-      - cs/Practical_Network_Attack_and_Defense/about.md
+      - cs/practical_network_attack_and_defense/about.md
   - 人工智能:
     - ai/index.md
     - 计算方法:

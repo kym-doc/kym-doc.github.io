@@ -28,6 +28,7 @@
 
 - Verilog 入门推荐（笔者当时花了一个下午就看完了，基本能够完全掌握 Verilog 语法）：https://hdlbits.01xz.net/wiki/Main_Page
 - 笔者的实验报告：https://box.nju.edu.cn/d/6683b28cb53d4ac0a660/
+- 笔者报告攥写时，使用的绘图网站：https://excalidraw.com/
 
 !!! tip "老师在课程网站上挂出的讲解链接，可供选课/预习参考"
 
