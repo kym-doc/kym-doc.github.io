@@ -125,6 +125,12 @@ nav:
     - 问题求解:
       - 问题求解（一）（2025 秋）:
         - cs/problem_solving_1(2025Fall)/about.md
+    - 数字逻辑与计算机组成实验:
+      - cs/digital_logic_and_computer_organization_lab/about.md
+    - 操作系统:
+      - cs/operating_system/about.md
+    - 网络攻防实战:
+      - cs/practical_network_attack_and_defense/about.md
   - 人工智能:
     - ai/index.md
     - 计算方法:
@@ -134,3 +140,7 @@ nav:
       - 课程介绍: ai/ai_intro/about.md
     - 机器学习导论:
       - 课程介绍: ai/ml_intro/about.md
+    - 多智能体系统:
+      - 课程介绍: ai/multi_agent_system/about.md
+    - 启发式搜索与演化算法:
+      - 课程介绍: ai/hsea/about.md
