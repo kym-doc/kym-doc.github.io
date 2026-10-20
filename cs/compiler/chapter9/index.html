@@ -2896,7 +2896,7 @@
 <p>有很多概念和公式，所以要记录一下：</p>
 <hr />
 <h2 id="_1">基本优化技术</h2>
-<p>**全局公共子表达式：**如果E（某行代码）</p>
+<p><strong>全局公共子表达式：</strong>如果E（某行代码）</p>
 <ul>
 <li>在某次出现之前必然已被计算过，且</li>
 <li>E的运算分量在该次计算之后没有被改变</li>
@@ -2928,7 +2928,7 @@
 <p>程序点：三地址语句之前或者之后的位置</p>
 <ul>
 <li>基本块内部：一个语句之后的程序点等于下一个语句之前的程序点</li>
-<li>如果流图中有B1到B2的边，那么B2的第一个语句之前的点**可能（因为可能实际上不会到，是一个may analysis）**紧跟在B1的最后语句之后的点后面执行</li>
+<li>如果流图中有B1到B2的边，那么B2的第一个语句之前的点<strong>可能（因为可能实际上不会到，是一个may analysis）</strong>紧跟在B1的最后语句之后的点后面执行</li>
 </ul>
 <p>出现在某个程序点的程序状态：</p>
 <ul>
@@ -2967,7 +2967,7 @@
 <ul>
 <li>生成了对变量 u 的定值 d，杀死其它对 u 的定值</li>
 <li>生成-杀死形式： <span class="arithmatex">\(f_d(x)={\rm gen}_d\cup(x-{\rm kill}_d)\)</span></li>
-<li><span class="arithmatex">\({\rm gen}_d=\{d\},{\rm kill}_d=\)</span> { **程序中（全局）**其它对 u 的定值 }</li>
+<li><span class="arithmatex">\({\rm gen}_d=\{d\},{\rm kill}_d=\)</span> { <strong>程序中（全局）</strong>其它对 u 的定值 }</li>
 </ul>
 <p>对于一个基本块：直接复合，第 i 条语句的 gen, kill 记为 <span class="arithmatex">\({\rm gen}_i,{\rm kill}_i\)</span></p>
 <p><img alt="image.png" src="https://box.nju.edu.cn/seafhttp/f/1072ef76063740659581/" /></p>
